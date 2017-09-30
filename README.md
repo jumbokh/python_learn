@@ -47,6 +47,8 @@ pip install numpy  (太複雜的套件 無法安裝)
 
  deactivate
 
+ conda info --env
+
  easy_install numpy  or conda install numpy
 
  conda install matplotlib
